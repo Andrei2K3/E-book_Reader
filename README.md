@@ -14,7 +14,7 @@ This document includes the system block diagram, hardware pinout, BOM, component
 
 ## System Block Diagram
 
-![title](Images/BlockDiagram.png)
+![title](Images/BlockDiagram.PNG)
 
 ---
 
